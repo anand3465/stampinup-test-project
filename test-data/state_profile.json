@@ -1,0 +1,45 @@
+{
+  "cookies": [
+    {
+      "name": "visid_incap_2474476",
+      "value": "tSN/VzF4Q5GlXqD8XCh0HQP8oGkAAAAAQUIPAAAAAAAktSxDy4i2yMrwGaVXMSRB",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": 1803624724,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "incap_ses_1417_2474476",
+      "value": "/RavVNHdUitj0s4jfjKqEwT8oGkAAAAAyeUukp86hbTBYfMQA/rJuQ==",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth_cookie",
+      "value": "CfDJ8M23VyIP94RHs0FKdl6D0Os69Ss5ZPZbJNtkpVtNbohT1jkF9SQedb7WWS0ymo7TrZsKWySkiXvDCW2_hVBOzZb04tPwZzAQsiO5JJ7SMwXFeaKzYML42i9FRcurMJ5HA6arn5iR7X37Zqi7JJ-E7F6QAaDADQZjwxV811IO9eMjrBUirglFstHeJKEG3KZMGS_xIuCWqswZEOijZq4XaS65ZVR1koUmVtrSjWaXqCtTuz_3Q4QgQN7UHXsaIRSdKcAyOwifwKGj3MLLRPUdcl65AII-oO0-7ONyjaISFioiHinBh9orLc-yuzZFkdim7-owvGkDa2nqAigAskZGj9RJMBlPhUi6J62pGr_cWA7YzWTJT6ugME-glxLoVSmBnpNKpFE8h115pxKRJeq9eqsRRoy3GJGeyd02YzEwNTB1xOkWaQZto5ZOw-KaZtV3TlOieHtMjIlCpY-YO2R5vjXoC82btIrYiRZ7HAaJIUvFwvhgjsPUiKaFhR2aFUJmOUtDoxah-zf3em7_ByLVGY5AChvA3ED_IfkzAOi6_kpXHBolCRbdUyrYQn2HGfCAjVe8XCm-S9Zvffz6zNKr7jD90GZvQfvrMxcUf9DOBmtyJ0fIhidGJlvqQNYdGSzD7oRK8c-OH5a4Tzk1dLHbdW2c1_dNsMSJMqtwH7KQ4LuCrehzi7ZyIO7XVn4C78rxrImat1nJkNBABPjuvMgygH9m-abqdl-5ES_EjFPbY_xntqcj3dfASf0cAe92NpwqnaYZj41qqwetwhX2CzdFae-KCwcYQ1xfKpf4_Mp-0mwz1_RGl7Er6XY5JvJfRjTAVRaUycxPl_IH8iR3F3_h0Hi-kKAzdvWm6-go3xq57CilxRtR4IE2SCnz10e_NboIWwXeJq4TMqYxX_C6yQ4e2SS0b-xitie8n_ZIJsBOo36WkJnvoekZi4cnnanj9qUrJGaGgBEkCFP_-XP0P1Tv6GEdyOCMIXWlbU_IfDckYmf8Hnw0gww2h0x6ryZ4BXfW3PWLLXs1Lu1MARGzCLz30E8miBp9Djn8PU8LnpSvY1dcLdZJJBdSu1jbaM9QN8NFVA",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": 1772244357,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userRole",
+      "value": "customer",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": 1772244357,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}

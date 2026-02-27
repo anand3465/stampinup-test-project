@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "visid_incap_2474476",
+      "value": "u8gzAOKCTgioTtav0Da0FQL8oGkAAAAAQUIPAAAAAAD9jqL1xak1aaUnZ9DcGxO5",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": 1803624724,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "nlbi_2474476",
+      "value": "wNCSfeU39H8Ghws/MaobJwAAAADJ8dPSLMJ+6XpDlvA/vRMa",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "incap_ses_1417_2474476",
+      "value": "LRgjZUnhSWEu0M4jfjKqEwP8oGkAAAAA8oFfoC/XX4YABSkSdtlY/w==",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth_cookie",
+      "value": "CfDJ8M23VyIP94RHs0FKdl6D0OvKwl_1v6UTukwo3oxL_LVDxKj2fIuUUMgqBrVZXsqF3iWjPLwvv8z9rI3OQcPjFFmcSaFR6tpKrsTtU50RcdTrEi29I2uEYa4NiTMobtgpXe8uY2DGFaWvcju0O8iWAWndc-qT9z1KJgHZR42-KT3p1V7pR-09MG1axJOqFoZyJe8wMGQUmNiO7SDlgcsb4DTl44axcRhNzwYYVRKa859c8cgEGU3QHQj9df8tjM4Oe2c2NIi9hOtl1A7MLESVcakGIYwgGFg_FhWIJ4BGj2lOZOcLy4X7kBNDRO2knbeFihE6RRgykjeoB7tGzcB7ManYzMXoADn2h1nL-Ctv06-kTkr7vdiI-9YTWkyEiHFftVePdDGPn9_mg_cVfTeuconxChWpjaWiiAsSjfoeeSL7sWFSpYKlhgqJWI9ZD4mY4VKMkQ_WzprWsgy7ozPrdSQF3lF7d1vNSFN78Xi_D7MIZ75J4cml_SBCY5c8w0ayNeU63Fk5W1EMXQLoO8JisDlBrIODIrtlCvGOnb4s6ByfbBV0sbcssKxrISEINRIpCaJpZ2Ry_IFMjQj0JmxXPb07vqPUrTd5QmZzbYcVbYtxzmqmLF0x1PqrSmyE45xsP2Y01RA1d-4z660mxkonmo_vlDDWvbAdJSHe1h42uAbRzdyFDIG2kftis-3cNU7i_1Z7CwEvsosj170q2aXmlIQLsCGP0GI0TIskg3lT5fmYPURw43DfJisjDW8Dbe-xXBJh9M12OdOf-4belb0B59BGaV6qxDxRHNsA93ET-AeuibA5NoncK022Ao8EVYfRj-RzFNO9wSOh3GM4olwWLEuVR-DOMelTJ6ZXkjSRJIxe-LxvJhwU5me9kXIKYLonwV_cXEbwexmv-XXTAci28QnGx3xiPGsl1Rm3OKNLzMbMJypWxUtc5YKrGsEW5BzJ_sCFNhObiZycv4so8AtjaVZOLgSmoqOe9xp-pT4MnSWvPUhh0wope6R1St0uTVmpHS7_OtGDamvbMQJMAX9kuKRteCirPCkx0cC3dBv9s1YjIM71TMe7fNyBlCohE3z2Nw",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": 1772244356,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "userRole",
+      "value": "customer",
+      "domain": ".stampinup.com",
+      "path": "/",
+      "expires": 1772244356,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
