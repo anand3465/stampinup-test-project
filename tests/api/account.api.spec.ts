@@ -128,26 +128,30 @@ test.beforeAll(async ({ request }) => {
 });
 
 test.describe("account API - stepwise (isolated)", () => {
+
+  //testing the create account API
   test("create", async ({ request }) => {
     const { email, password } = await createAccount(request);
   });
 
+  //testing the sign in API
   test("sign in", async ({ request }) => {
     await signIn(request, globalCreds.email, globalCreds.password);
   });
 
+  //testing the update contact API
   test("update contact", async ({ request }) => {
     await signIn(request, globalCreds.email, globalCreds.password);
     await updateContact(request, globalCreds.email);
   });
 
+  //testing the save address API
   test("save address", async ({ request }) => {
     await signIn(request, globalCreds.email, globalCreds.password);
     const contact = makeContactPayload(globalCreds.email);
     const addr = makeAddressPayload(contact.firstName, contact.lastName, contact.phoneNumber);
     await saveAddress(request, addr);
   });
-
   test("verify address exists", async ({ request }) => {
     await signIn(request, globalCreds.email, globalCreds.password);
     const contact = makeContactPayload(globalCreds.email);
@@ -170,6 +174,7 @@ function expectNotSuccess(status: number) {
   expect([200, 201]).not.toContain(status);
 }
 
+// Negative tests for create account, sign in, update contact, and address saving/verification APIs
 test.describe("account API - negative", () => {
   test("create: invalid email format should fail", async ({ request }) => {
     const badEmail = "not-an-email";

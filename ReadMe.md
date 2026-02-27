@@ -1,6 +1,6 @@
 ## Introduction:
 
-This repo contains tests for [stampinup.com](https://www.stampinup.com/) written in TypeScript using Playwright. The solutions to the SQL questions are included in the [SQLsolutions.md](/SQLsolutions.md) file within this repo.
+This repo contains tests for [stampinup.com](https://www.stampinup.com/) written in TypeScript using Playwright. The test cases for the given scenario are added in account.api.spec.ts, address.ui.spec.ts, home.ui.spec.ts and settings.ui.spec.ts. The solutions to the SQL questions are included in the [SQLsolutions.md](/SQLsolutions.md) file within this repo. 
 
  ## How to run?
 
